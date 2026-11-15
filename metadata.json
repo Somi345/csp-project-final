@@ -1,0 +1,6 @@
+{
+  "name": "Farmer Welfare Management System (FWMS)",
+  "description": "Centralized digital coordination and record-management portal for Village Agriculture Coordinators to manage farmers, crop surveys, emergency issues, and government schemes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
